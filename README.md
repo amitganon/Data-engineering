@@ -11,6 +11,6 @@ progect 6: matplotlib,seaborn,plotlyexpress, grids and graphs
 
 progect 7:Scikit-Learn, calculate Correlation, Regrression models (Linear regression)- test and train, calculate RMSE & MAE 
 
-progect 7:KNN algorithem - calculate accuracy & score_f1, Decision Tree algorithm
+progect 8:KNN algorithem - calculate accuracy & score_f1, Decision Tree algorithm
 
-progect 8: Kmeans algorithm, Column normalization
+progect 9: Kmeans algorithm, Column normalization
