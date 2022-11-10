@@ -3,14 +3,14 @@ Data engineering progects
 language - SQL, Python
 using - SqLight, Colab
 
-progect 4: working with DB,making table's joins, 'Pandas' and NumPy packages, programing with python
+Project 4: Working with DB, tables joins, 'Pandas', and NumPy packages, using Python.
 
-progect 5: cleaning Data, Regular Expressions, programing with python
+Project 5: Cleaning Data, Regular Expressions, using Python
 
-progect 6: matplotlib,seaborn,plotlyexpress, grids and graphs
+Project 6: matplotlib, seaborn, plotlyexpress, grids, and graphs
 
-progect 7:Scikit-Learn, calculate Correlation, Regrression models (Linear regression)- test and train, calculate RMSE & MAE 
+Project 7: Scikit-Learn, calculate Correlation, Regression models (Linear regression)- test and train, calculate RMSE & MAE
 
-progect 8:KNN algorithem - calculate accuracy & score_f1, Decision Tree algorithm
+Project 8:KNN algorithm - calculate accuracy & score_f1, Decision Tree algorithm
 
-progect 9: Kmeans algorithm, Column normalization
+Project 9: Kmeans algorithm, Column normalization
